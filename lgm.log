@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  1 MAR 2014 18:03
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  1 MAR 2014 18:13
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -198,7 +198,7 @@ File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 [19] [20] [21] [22] [23] [24] [25] [26] [27] [28
 
 ] [29]
-Overfull \hbox (1.37364pt too wide) in paragraph at lines 660--661
+Overfull \hbox (1.37364pt too wide) in paragraph at lines 669--670
 []\T1/iwonal/m/n/10 Pre-bake the short-crust for a few min-utes at 180C (356F).
  
  []
@@ -206,13 +206,13 @@ Overfull \hbox (1.37364pt too wide) in paragraph at lines 660--661
 [30] [31] [32
 
 ] [33] [34]
-Overfull \hbox (4.05676pt too wide) in paragraph at lines 718--719
+Overfull \hbox (4.05676pt too wide) in paragraph at lines 727--728
 []\T1/iwonal/m/n/10 Always use 'heavy cream', 'whip-ping cream' or 'whole cream
 '.
  []
 
 
-Overfull \hbox (2.69469pt too wide) in paragraph at lines 720--721
+Overfull \hbox (2.69469pt too wide) in paragraph at lines 729--730
 []\T1/iwonal/m/n/10 Once the cream is hard enough that the whisk slices through
 
  []
@@ -220,7 +220,7 @@ Overfull \hbox (2.69469pt too wide) in paragraph at lines 720--721
 [35] [36] [37] [38] [39] [40] [41
 
 ] [42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 816--818
+Underfull \hbox (badness 10000) in paragraph at lines 825--827
 
  []
 
@@ -243,7 +243,7 @@ xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
 ve/2010/texmf-dist/fonts/type1/public/iwona/iwonal.pfb></usr/local/texlive/2010
 /texmf-dist/fonts/type1/public/iwona/iwonali.pfb></usr/local/texlive/2010/texmf
 -dist/fonts/type1/public/iwona/iwonam.pfb>
-Output written on lgm.pdf (47 pages, 92083 bytes).
+Output written on lgm.pdf (47 pages, 92238 bytes).
 PDF statistics:
  175 PDF objects out of 1000 (max. 8388607)
  120 compressed objects within 2 object streams
