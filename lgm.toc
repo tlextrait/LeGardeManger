@@ -19,21 +19,22 @@
 \contentsline {section}{Mille Cr\^{e}pe}{21}
 \contentsline {section}{Panna Cotta}{22}
 \contentsline {section}{Panna Cotta - Raspberry}{23}
-\contentsline {section}{Tiramisu}{24}
-\contentsline {section}{Waffles (Lieges)}{25}
-\contentsline {part}{Salty}{27}
-\contentsline {section}{Quiche}{28}
-\contentsline {section}{Lobster - Boiled}{29}
-\contentsline {part}{Methods}{31}
-\contentsline {section}{Bain-Marie}{32}
-\contentsline {section}{Beating cream}{33}
-\contentsline {section}{Beating egg whites}{34}
-\contentsline {section}{Beating yolks and sugar}{35}
-\contentsline {section}{Choosing rum}{36}
-\contentsline {section}{Choosing vanilla}{37}
-\contentsline {section}{Melting chocolate}{38}
-\contentsline {part}{Appendix}{39}
-\contentsline {section}{Temperatures}{40}
-\contentsline {section}{Other conversions}{41}
-\contentsline {section}{About}{42}
-\contentsline {section}{Websites}{43}
+\contentsline {section}{Savarin au Rhum}{24}
+\contentsline {section}{Tiramisu}{26}
+\contentsline {section}{Waffles (Lieges)}{27}
+\contentsline {part}{Salty}{29}
+\contentsline {section}{Quiche}{30}
+\contentsline {section}{Lobster - Boiled}{31}
+\contentsline {part}{Methods}{33}
+\contentsline {section}{Bain-Marie}{34}
+\contentsline {section}{Beating cream}{35}
+\contentsline {section}{Beating egg whites}{36}
+\contentsline {section}{Beating yolks and sugar}{37}
+\contentsline {section}{Choosing rum}{38}
+\contentsline {section}{Choosing vanilla}{39}
+\contentsline {section}{Melting chocolate}{40}
+\contentsline {part}{Appendix}{41}
+\contentsline {section}{Temperatures}{42}
+\contentsline {section}{Other conversions}{43}
+\contentsline {section}{About}{44}
+\contentsline {section}{Websites}{45}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  2 JAN 2014 14:05
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  1 MAR 2014 18:03
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -195,36 +195,36 @@ File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 [3] [4] [5] [6] [7] [8] [9
 
 ] [10] [11] [12] [13] [14] [15] [16] [17] [18]
-[19] [20] [21] [22] [23] [24] [25] [26
+[19] [20] [21] [22] [23] [24] [25] [26] [27] [28
 
-] [27]
-Overfull \hbox (1.37364pt too wide) in paragraph at lines 621--622
+] [29]
+Overfull \hbox (1.37364pt too wide) in paragraph at lines 660--661
 []\T1/iwonal/m/n/10 Pre-bake the short-crust for a few min-utes at 180C (356F).
  
  []
 
-[28] [29] [30
+[30] [31] [32
 
-] [31] [32]
-Overfull \hbox (4.05676pt too wide) in paragraph at lines 679--680
+] [33] [34]
+Overfull \hbox (4.05676pt too wide) in paragraph at lines 718--719
 []\T1/iwonal/m/n/10 Always use 'heavy cream', 'whip-ping cream' or 'whole cream
 '.
  []
 
 
-Overfull \hbox (2.69469pt too wide) in paragraph at lines 681--682
+Overfull \hbox (2.69469pt too wide) in paragraph at lines 720--721
 []\T1/iwonal/m/n/10 Once the cream is hard enough that the whisk slices through
 
  []
 
-[33] [34] [35] [36] [37] [38] [39
+[35] [36] [37] [38] [39] [40] [41
 
-] [40] [41]
-Underfull \hbox (badness 10000) in paragraph at lines 777--779
+] [42] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 816--818
 
  []
 
-[42] [43] (./lgm.aux)
+[44] [45] (./lgm.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -243,10 +243,10 @@ xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
 ve/2010/texmf-dist/fonts/type1/public/iwona/iwonal.pfb></usr/local/texlive/2010
 /texmf-dist/fonts/type1/public/iwona/iwonali.pfb></usr/local/texlive/2010/texmf
 -dist/fonts/type1/public/iwona/iwonam.pfb>
-Output written on lgm.pdf (45 pages, 90199 bytes).
+Output written on lgm.pdf (47 pages, 92083 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
+ 175 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
