@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  1 MAR 2014 18:25
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  2 MAR 2014 11:39
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -197,8 +197,13 @@ File: omxiwonal.fd 2008/07/22 v0.995 font definition file for OMX/iwonal (MW)
 ] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 [19] [20] [21] [22] [23] [24] [25] [26] [27] [28
 
-] [29] [30] [31]
-Overfull \hbox (1.37364pt too wide) in paragraph at lines 707--708
+] [29] [30]
+Overfull \hbox (53.45483pt too wide) in paragraph at lines 692--701
+ [] 
+ []
+
+[31]
+Overfull \hbox (1.37364pt too wide) in paragraph at lines 724--725
 []\T1/iwonal/m/n/10 Pre-bake the short-crust for a few min-utes at 180C (356F).
  
  []
@@ -206,13 +211,13 @@ Overfull \hbox (1.37364pt too wide) in paragraph at lines 707--708
 [32] [33] [34
 
 ] [35] [36]
-Overfull \hbox (4.05676pt too wide) in paragraph at lines 765--766
+Overfull \hbox (4.05676pt too wide) in paragraph at lines 782--783
 []\T1/iwonal/m/n/10 Always use 'heavy cream', 'whip-ping cream' or 'whole cream
 '.
  []
 
 
-Overfull \hbox (2.69469pt too wide) in paragraph at lines 767--768
+Overfull \hbox (2.69469pt too wide) in paragraph at lines 784--785
 []\T1/iwonal/m/n/10 Once the cream is hard enough that the whisk slices through
 
  []
@@ -220,7 +225,7 @@ Overfull \hbox (2.69469pt too wide) in paragraph at lines 767--768
 [37] [38] [39] [40] [41] [42] [43
 
 ] [44] [45]
-Underfull \hbox (badness 10000) in paragraph at lines 863--865
+Underfull \hbox (badness 10000) in paragraph at lines 880--882
 
  []
 
@@ -230,11 +235,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1180 strings out of 493747
- 15347 string characters out of 3143546
+ 1181 strings out of 493747
+ 15363 string characters out of 3143546
  68183 words of memory out of 3000000
- 4510 multiletter control sequences out of 15000+200000
- 29120 words of font info for 31 fonts, out of 3000000 for 9000
+ 4511 multiletter control sequences out of 15000+200000
+ 32250 words of font info for 32 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  24i,6n,32p,348b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/iwona/sy-iwona.enc}{/usr/
@@ -243,7 +248,7 @@ xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
 ve/2010/texmf-dist/fonts/type1/public/iwona/iwonal.pfb></usr/local/texlive/2010
 /texmf-dist/fonts/type1/public/iwona/iwonali.pfb></usr/local/texlive/2010/texmf
 -dist/fonts/type1/public/iwona/iwonam.pfb>
-Output written on lgm.pdf (49 pages, 93234 bytes).
+Output written on lgm.pdf (49 pages, 94060 bytes).
 PDF statistics:
  182 PDF objects out of 1000 (max. 8388607)
  125 compressed objects within 2 object streams
