@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  29 MAR 2014 18:07
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  29 MAR 2014 19:07
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -230,7 +230,7 @@ xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
 ve/2010/texmf-dist/fonts/type1/public/iwona/iwonal.pfb></usr/local/texlive/2010
 /texmf-dist/fonts/type1/public/iwona/iwonali.pfb></usr/local/texlive/2010/texmf
 -dist/fonts/type1/public/iwona/iwonam.pfb>
-Output written on lgm.pdf (49 pages, 95597 bytes).
+Output written on lgm.pdf (49 pages, 95601 bytes).
 PDF statistics:
  182 PDF objects out of 1000 (max. 8388607)
  125 compressed objects within 2 object streams
