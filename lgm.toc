@@ -3,7 +3,7 @@
 \contentsline {section}{Choux Pastry}{3}
 \contentsline {section}{Pastry Cream}{4}
 \contentsline {section}{Shortcake}{5}
-\contentsline {section}{Shortcake (for roll-cake)}{6}
+\contentsline {section}{Shortcake - Roll-cake}{6}
 \contentsline {section}{Shortcrust}{7}
 \contentsline {section}{Sweetcrust}{8}
 \contentsline {part}{Sweet}{9}
@@ -19,10 +19,11 @@
 \contentsline {section}{Mille Cr\^{e}pe}{21}
 \contentsline {section}{Panna Cotta}{22}
 \contentsline {section}{Panna Cotta - Raspberry}{23}
-\contentsline {section}{Savarin au Rhum}{24}
-\contentsline {section}{Tiramisu}{26}
-\contentsline {section}{Waffles (Lieges)}{27}
-\contentsline {part}{Salty}{29}
+\contentsline {section}{Rice Pudding - Finland}{24}
+\contentsline {section}{Savarin au Rhum}{25}
+\contentsline {section}{Tiramisu}{27}
+\contentsline {section}{Waffles (Lieges)}{28}
+\contentsline {part}{Savory}{29}
 \contentsline {section}{Brandade}{30}
 \contentsline {section}{Quiche}{32}
 \contentsline {section}{Lobster - Boiled}{33}
