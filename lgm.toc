@@ -7,16 +7,16 @@
 \contentsline {section}{Shortcrust}{7}
 \contentsline {section}{Sweetcrust}{8}
 \contentsline {part}{Sweet}{9}
-\contentsline {section}{Canel\'{e}s Bordelais}{10}
+\contentsline {section}{Canel{\'{e}}s Bordelais}{10}
 \contentsline {section}{Chocolate Mousse}{12}
-\contentsline {section}{Chocolate Souffl\'{e}}{13}
+\contentsline {section}{Chocolate Souffl{\'{e}}}{13}
 \contentsline {section}{Clafoutis}{14}
-\contentsline {section}{Cr\`{e}me Br\^{u}l\'{e}e}{15}
-\contentsline {section}{Cr\`{e}me aux Oeufs}{16}
-\contentsline {section}{Cr\^{e}pes}{17}
+\contentsline {section}{Cr{\`{e}}me Br{\^{u}}l{\'{e}}e}{15}
+\contentsline {section}{Cr{\`{e}}me aux Oeufs}{16}
+\contentsline {section}{Cr{\^{e}}pes}{17}
 \contentsline {section}{Madeleines}{19}
 \contentsline {section}{Marble Cake}{20}
-\contentsline {section}{Mille Cr\^{e}pe}{21}
+\contentsline {section}{Mille Cr{\^{e}}pe}{21}
 \contentsline {section}{Panna Cotta}{22}
 \contentsline {section}{Panna Cotta - Raspberry}{23}
 \contentsline {section}{Rice Pudding - Finland}{24}
