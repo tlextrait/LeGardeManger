@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  30 JAN 2015 18:01
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  30 JAN 2015 18:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -204,14 +204,14 @@ Overfull \hbox (33.61494pt too wide) in paragraph at lines 735--744
 
 [31] [32] [33] [34] [35
 
-] [36] [37] [38] [39] [40] [41] [42] [43
+] [36] [37] [38] [39] [40
 
-] [44] [45]
-Underfull \hbox (badness 10000) in paragraph at lines 951--953
+] [41] [42] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 976--978
 
  []
 
-[46] [47] (./lgm.aux)
+[44] [45] (./lgm.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -230,10 +230,10 @@ xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
 ve/2010/texmf-dist/fonts/type1/public/iwona/iwonal.pfb></usr/local/texlive/2010
 /texmf-dist/fonts/type1/public/iwona/iwonali.pfb></usr/local/texlive/2010/texmf
 -dist/fonts/type1/public/iwona/iwonam.pfb>
-Output written on lgm.pdf (49 pages, 97143 bytes).
+Output written on lgm.pdf (47 pages, 97799 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
+ 175 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
