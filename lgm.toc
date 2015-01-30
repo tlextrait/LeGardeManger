@@ -27,6 +27,7 @@
 \contentsline {section}{Brandade}{30}
 \contentsline {section}{Quiche}{32}
 \contentsline {section}{Lobster - Boiled}{33}
+\contentsline {section}{Nitamago Eggs}{34}
 \contentsline {part}{Methods}{35}
 \contentsline {section}{Bain-Marie}{36}
 \contentsline {section}{Beating cream}{37}

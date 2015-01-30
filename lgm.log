@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  29 MAR 2014 19:07
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  30 JAN 2015 18:01
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -202,12 +202,12 @@ Overfull \hbox (33.61494pt too wide) in paragraph at lines 735--744
  [] 
  []
 
-[31] [32] [33] [34
+[31] [32] [33] [34] [35
 
-] [35] [36] [37] [38] [39] [40] [41] [42] [43
+] [36] [37] [38] [39] [40] [41] [42] [43
 
 ] [44] [45]
-Underfull \hbox (badness 10000) in paragraph at lines 923--925
+Underfull \hbox (badness 10000) in paragraph at lines 951--953
 
  []
 
@@ -217,20 +217,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1197 strings out of 493747
- 15545 string characters out of 3143546
+ 1204 strings out of 493747
+ 15645 string characters out of 3143546
  68212 words of memory out of 3000000
- 4525 multiletter control sequences out of 15000+200000
- 37853 words of font info for 41 fonts, out of 3000000 for 9000
+ 4531 multiletter control sequences out of 15000+200000
+ 45347 words of font info for 47 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 24i,6n,32p,348b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,8n,32p,483b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/iwona/sy-iwona.enc}{/usr/
 local/texlive/2010/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}</usr/local/te
 xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
 ve/2010/texmf-dist/fonts/type1/public/iwona/iwonal.pfb></usr/local/texlive/2010
 /texmf-dist/fonts/type1/public/iwona/iwonali.pfb></usr/local/texlive/2010/texmf
 -dist/fonts/type1/public/iwona/iwonam.pfb>
-Output written on lgm.pdf (49 pages, 95601 bytes).
+Output written on lgm.pdf (49 pages, 97143 bytes).
 PDF statistics:
  182 PDF objects out of 1000 (max. 8388607)
  125 compressed objects within 2 object streams
