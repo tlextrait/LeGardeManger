@@ -14,29 +14,33 @@
 \contentsline {section}{Cr{\`{e}}me Br{\^{u}}l{\'{e}}e}{15}
 \contentsline {section}{Cr{\`{e}}me aux Oeufs}{16}
 \contentsline {section}{Cr{\^{e}}pes}{17}
-\contentsline {section}{Madeleines}{19}
-\contentsline {section}{Marble Cake}{20}
-\contentsline {section}{Mille Cr{\^{e}}pe}{21}
-\contentsline {section}{Pancakes}{22}
-\contentsline {section}{Panna Cotta}{23}
-\contentsline {section}{Panna Cotta - Raspberry}{24}
-\contentsline {section}{Rice Pudding - Finland}{25}
-\contentsline {section}{Savarin au Rhum}{26}
-\contentsline {section}{Tiramisu}{28}
-\contentsline {section}{Waffles (Lieges)}{29}
-\contentsline {part}{Savory}{31}
-\contentsline {section}{Brandade}{32}
-\contentsline {section}{Quiche}{34}
-\contentsline {section}{Lobster - Boiled}{35}
-\contentsline {section}{Nitamago Eggs}{36}
-\contentsline {section}{Tortilla Bread}{37}
-\contentsline {part}{Methods}{39}
-\contentsline {section}{Bain-Marie}{40}
-\contentsline {section}{Beating cream}{41}
-\contentsline {section}{Beating egg whites}{42}
-\contentsline {section}{Cooking eggs}{43}
-\contentsline {part}{Appendix}{45}
-\contentsline {section}{Temperature conversion}{46}
-\contentsline {section}{Other conversions}{47}
-\contentsline {section}{About}{48}
-\contentsline {section}{Websites}{49}
+\contentsline {section}{Far Breton}{19}
+\contentsline {section}{Finnish Rice Porridge}{20}
+\contentsline {section}{Macarons}{21}
+\contentsline {section}{Madeleines}{22}
+\contentsline {section}{Marble Cake}{23}
+\contentsline {section}{Mille Cr{\^{e}}pe}{24}
+\contentsline {section}{Pancakes}{25}
+\contentsline {section}{Panna Cotta}{26}
+\contentsline {section}{Panna Cotta - Raspberry}{27}
+\contentsline {section}{Rice Pudding - Finland}{28}
+\contentsline {section}{Savarin au Rhum}{29}
+\contentsline {section}{Tiramisu}{31}
+\contentsline {section}{Tropezienne}{32}
+\contentsline {section}{Waffles (Lieges)}{33}
+\contentsline {part}{Savory}{35}
+\contentsline {section}{Brandade}{36}
+\contentsline {section}{Quiche}{38}
+\contentsline {section}{Lobster - Boiled}{39}
+\contentsline {section}{Nitamago Eggs}{40}
+\contentsline {section}{Tortilla Bread}{41}
+\contentsline {part}{Methods}{43}
+\contentsline {section}{Bain-Marie}{44}
+\contentsline {section}{Beating cream}{45}
+\contentsline {section}{Beating egg whites}{46}
+\contentsline {section}{Cooking eggs}{47}
+\contentsline {part}{Appendix}{49}
+\contentsline {section}{Temperature conversion}{50}
+\contentsline {section}{Other conversions}{51}
+\contentsline {section}{About}{52}
+\contentsline {section}{Websites}{53}
